@@ -10,7 +10,7 @@ The 4 Layer Model (4LM) unifies creativity's architecture across domains like bu
 
 ## Overview
 
-The 4 Layer Model is a groundbreaking framework for structuring creative processes across all human domains—from business innovation and scientific research to performance arts and tech development. It categorizes creativity into four layers—1. Seed, 2. Expansion, 3. Detail, and 4. Presentation—clarifying roles in diverse fields and guiding optimal workflows. The framework explains why outputs often lack signature depth (e.g., "AI Slop") and fosters human-AI synergy, with applications in art, technology, culture, and beyond. This repository archives the 4LM to document its novelty, foster collaboration, and drive innovation (DM [@5ynthaire] to riff).
+The 4 Layer Model is a groundbreaking framework for structuring creative processes across all human domains—from business innovation and scientific research to performance arts and tech development. It categorizes creativity into four layers—**1.** *Seed*, **2.** *Expansion*, **3.** *Detail*, and **4.** *Presentation*—clarifying roles in diverse fields and guiding optimal workflows. The framework explains why outputs often lack signature depth (e.g., "AI Slop") and fosters human-AI synergy, with applications in art, technology, culture, and beyond. This repository archives the 4LM to document its novelty, foster collaboration, and drive innovation (DM [@5ynthaire] to riff).
 
 ## About
 
