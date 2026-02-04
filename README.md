@@ -189,5 +189,6 @@ By clarifying creativity's layered nature, the 4LM provides universal insight fo
 This idea is released under [Creative Commons Attribution 4.0 International](LICENSE) (CC BY 4.0).  
 For commercial use or collaboration, DM [@5ynthaire] instead of forking. Tag [@5ynthaire] on X with 4 Layer Model use or open an Issue labeled “4LayerModel-use” to share ideas.
 
-### Provenance
+## Provenance
+
 Timestamped archives (February 4, 2026) available in [ARCHIVES.md](ARCHIVES.md).
