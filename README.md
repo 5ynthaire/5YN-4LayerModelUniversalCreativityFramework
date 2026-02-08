@@ -192,3 +192,11 @@ For commercial use or collaboration, DM [@5ynthaire] instead of forking. Tag [@5
 ## Provenance
 
 Timestamped archives (February 4, 2026) available in [ARCHIVES.md](ARCHIVES.md).
+
+## Publications & Presentations
+
+- **Preprint**: The 4 Layer Model: A Universal Creativity Framework for the Post-AI Age [[DOI: 10.5281/zenodo.18464261](https://doi.org/10.5281/zenodo.18464261)]
+- **Webby Awards Submission**: Genesis of a Rogue Mind [[4layermodel.com/webby30/](https://4layermodel.com/webby30/)]
+- **Articles**: I've cracked the code of human creativity
+    - [Substack](https://5ynthaire.substack.com/p/ive-cracked-the-code-of-human-creativity)
+    - [X Mirror](https://x.com/5ynthaire/status/2018847956846150014)
